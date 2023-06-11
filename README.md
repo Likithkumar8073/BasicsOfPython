@@ -1,1 +1,1 @@
- BasicsOfPython About String Manimulation 
+ String Manipulation in Python 
