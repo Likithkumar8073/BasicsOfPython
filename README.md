@@ -1,4 +1,4 @@
-<h>Basics of Python</h>/n
+<h1>Basics of Python</h1>/n
 Contents in the file:-
 1]Variables
 2]How to find the Data Type for a variables in Python
